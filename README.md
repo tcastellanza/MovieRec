@@ -1,1 +1,1 @@
-Project Plan: Personalized Movie Recommendation Summarizer
+Project Plan: Real-time News Summarizer
